@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Disk_Rotate.qml</file>
+        <file>Image/Disc.png</file>
+        <file>List_Qquickwidget.qml</file>
+        <file>Image/List.png</file>
+        <file>../../dowload/Song.png</file>
+        <file>Image/Song.png</file>
+        <file>Image/Add.png</file>
+        <file>Image/Delete.png</file>
+        <file>Image/listen.png</file>
+        <file>Image/Music.png</file>
+        <file>Image/Search.png</file>
+        <file>Image/arrow.png</file>
+        <file>Image/Play_check.png</file>
+        <file>Image/Play_check - Copy.png</file>
+        <file>Playlist.qml</file>
+        <file>OnPlaying.qml</file>
+        <file>Image/folder.png</file>
+        <file>Stack_view_playlist.qml</file>
+        <file>Menu_playlist.qml</file>
+        <file>Image/Add(1).png</file>
+        <file>Image/Favorite.png</file>
+        <file>Libary_list_of_save.qml</file>
+        <file>Libary_list_of_music.qml</file>
+        <file>Image/Save.png</file>
+        <file>Image/Option.png</file>
+        <file>Image/check.jpg</file>
+        <file>Image/USer.png</file>
+        <file>Image/color-background.png</file>
+        <file>Image/file.png</file>
+        <file>Image/Home.png</file>
+        <file>Image/Mute.png</file>
+        <file>Image/Pause.png</file>
+        <file>Image/Person.jpg</file>
+        <file>Image/Play.png</file>
+        <file>Image/Random_OF.png</file>
+        <file>Image/Random_OFpng.png</file>
+        <file>Image/Random_On.png</file>
+        <file>Image/step_by_step.png</file>
+        <file>Image/Unmute.png</file>
+    </qresource>
+    <qresource prefix="/Image"/>
+    <qresource prefix="/File_Image"/>
+    <qresource prefix="/Pres"/>
+    <qresource prefix="/files"/>
+</RCC>
